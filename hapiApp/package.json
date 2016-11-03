@@ -1,0 +1,20 @@
+{
+  "name": "example-csrf-hapijs",
+  "version": "0.0.1",
+  "description": "example csrf hapijs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "csrf",
+    "hapijs"
+  ],
+  "author": "ray de castro",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "hapi": "^15.2.0",
+    "inert": "^4.0.2"
+  }
+}
